@@ -25,25 +25,6 @@ A sleek movie discovery app built with **React**, featuring genre-based recommen
 
 ---
 
-## 🚀 Getting Started
-
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/react-movie-db.git
-
-# Move into the project folder
-cd react-movie-db
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
-
-
-
----
-
 ## 📷 Demo
 
 [![Watch Demo](https://img.youtube.com/vi/YOUR_TRAILER_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_TRAILER_ID)
@@ -77,3 +58,23 @@ Feel free to use, modify, and share this project.
 
 > Built with 🎬 and ❤️ by movie lovers for movie lovers.
 
+
+
+## 🚀 Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/react-movie-db.git
+
+# Move into the project folder
+cd react-movie-db
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+
+
+
+---
